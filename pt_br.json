@@ -1,0 +1,20 @@
+{
+  "itemGroup.dragonkingdoms": "Dragon Kingdoms",
+
+  "entity.dragonkingdoms.cursed_knight": "Cavaleiro Amaldiçoado",
+  "entity.dragonkingdoms.cave_goblin": "Goblin das Cavernas",
+  "entity.dragonkingdoms.shadow_guardian": "Guardião Sombrio",
+  "entity.dragonkingdoms.ancient_dragon": "Dragão Ancião",
+
+  "item.dragonkingdoms.ancient_kingdom_sword": "Espada do Reino Antigo",
+  "item.dragonkingdoms.royal_knight_helmet": "Elmo de Cavaleiro Real",
+  "item.dragonkingdoms.royal_knight_chestplate": "Peitoral de Cavaleiro Real",
+  "item.dragonkingdoms.royal_knight_leggings": "Perneiras de Cavaleiro Real",
+  "item.dragonkingdoms.royal_knight_boots": "Botas de Cavaleiro Real",
+  "item.dragonkingdoms.dragon_scale": "Escama de Dragão",
+  "item.dragonkingdoms.magic_crystal": "Cristal Mágico",
+  "item.dragonkingdoms.dragon_egg_trophy": "Ovo de Dragão",
+
+  "advancement.dragonkingdoms.found_ruin.title": "Uma Ruína Misteriosa",
+  "advancement.dragonkingdoms.found_ruin.description": "Encontre uma ruína medieval esquecida"
+}
